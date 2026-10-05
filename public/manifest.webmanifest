@@ -1,0 +1,10 @@
+{
+  "name": "CRM English Work Simulator",
+  "short_name": "CRM English",
+  "description": "CRM 与海外运营英语听力训练",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f7f1",
+  "theme_color": "#1a5139",
+  "icons": []
+}
